@@ -1,4 +1,4 @@
-# Prevention Checklist for Students
+# Stay Safe Online
 
 ### ✅ Do’s:
 1. Always verify the sender before responding to any kind of payment or UPI request.  
