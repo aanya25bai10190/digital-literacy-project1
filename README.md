@@ -5,7 +5,7 @@
 **Course:** CSE0001 – Digital Literacy  
 **Student Name:** Aanya Yadav  
 **Registration Number:** 25BAI10190  
-**Branch:** Computer Science Engineering(Artificial Intelligence and Machine Learning) 
+**Branch:** Computer Science Engineering (Artificial Intelligence and Machine Learning) 
 **Year:** 1st Year B.Tech  
 
 ---
@@ -27,19 +27,30 @@ This repository contains all deliverables organized by task, along with my refle
   2. Digital Tools 
   3. Safe internet practices  
   4. Professional online presence
-  5. Email Etiquettes 
+  5. Email Etiquette 
 - **Reflection:** Designing the presentation helped me condense important information into a visually appealing format. Choosing the most relevant topics for a single slide was challenging but rewarding.  
 - **Link:** [https://prezi.com/view/0kDF3nYmTvP2H2544OiA/?referral_token=YT6HpqlnB3FN]
 
 ---
 
 ### **🔹Task 2 – Student Digital Portfolio**
-- **Platforms Used:** GitHub, Kaggle, ResearchGate  
-- **Purpose:** Established a professional online presence to showcase projects, coding skills, and academic contributions.  
-- **Future Plans:**  
-  - **GitHub:** Store project code, collaborate on team projects, track progress  
-  - **Kaggle:** Practice coding, data analysis, and participate in competitions  
-  - **ResearchGate:** Network with academic peers and share research work
+
+**Platforms Used:** GitHub, Kaggle, ResearchGate, LinkedIn  
+
+**Purpose:**  
+Established a professional online presence to showcase projects, coding skills, academic interests, and to connect with the professional and research community.  
+
+**Details:**  
+- **GitHub:** Created a profile README including my name, branch, and learning goals. It will be used to upload projects, collaborate, and track my progress.  
+- **Kaggle:** Used for exploring data science, practising coding, and working with datasets and notebooks.  
+- **ResearchGate:** Helps in understanding academic research, accessing papers, and connecting with researchers.  
+- **LinkedIn:** Completed my Education section by adding my current degree, institution, and expected graduation year. It will help me build professional connections and explore internship opportunities.  
+
+**Future Plans:**  
+- **GitHub:** Store project code, collaborate on team projects, track progress  
+- **Kaggle:** Practice coding, data analysis, and participate in competitions  
+- **ResearchGate:** Network with academic peers and explore research work  
+- **LinkedIn:** Build professional network, showcase achievements, and apply for internships  
 
 ---
 
@@ -65,11 +76,29 @@ This repository contains all deliverables organized by task, along with my refle
 ---
 
 ### **🔹Task 5 – Cybercrime Awareness**
-- **Tools Used:** Google, National Cyber Crime Portal  
-- **Case Study Topic:** Phishing  
-  - Researched steps, targets, consequences, and prevention tips  
-- **Prevention Checklist:** Created 8 actionable tips including financial safety measures and reporting channels (cybercrime.gov.in, Helpline 1930)  
-- **Reflection:** Realized how sophisticated phishing scams can be and identified habits I will personally change to stay safe online
+
+**Tools Used:** Google, National Cyber Crime Portal  
+
+**Case Study Topic:** Ransomware  
+
+**Case Study:**  
+Ransomware is a cyberattack where a user’s data or system is locked and a ransom is demanded to restore access. It often spreads through phishing emails or malicious downloads. For example, a student may receive an email with an attachment that appears important. Once opened, the ransomware installs itself and encrypts files on the device.  
+
+A message is then displayed demanding payment, usually in cryptocurrency, in exchange for a decryption key. Victims may lose important data and money, and access is not always restored even after payment. Students are common targets due to lack of awareness.  
+
+**Prevention Checklist:**  
+- Avoid suspicious links and attachments  
+- Verify sender before downloading files  
+- Use antivirus and keep systems updated  
+- Back up important data regularly  
+- Use strong passwords  
+- Avoid untrusted downloads  
+- Verify UPI/payment requests carefully  
+- Never share OTPs or financial details  
+- Report at https://cybercrime.gov.in or call 1930  
+
+**Reflection:**  
+This task showed me how easily ransomware attacks can happen through small mistakes. I learned to be more cautious while opening links or downloading files. I will also back up my data regularly and stay alert while using online platforms.
 
 ---
 
