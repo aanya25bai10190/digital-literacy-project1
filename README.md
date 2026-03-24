@@ -1,4 +1,6 @@
-# Digital Literacy Project | VIT Bhopal University
+## Digital Literacy Project | VIT Bhopal University
+
+# 👩🏻‍🎓Student Details
 
 **Course:** CSE0001 – Digital Literacy  
 **Student Name:** Aanya Yadav  
@@ -8,7 +10,7 @@
 
 ---
 
-## Project Overview
+## 📌Project Overview
 
 As a **Student Digital Ambassador** at VIT Bhopal University, this project demonstrates my understanding of digital literacy and my ability to guide peers in safely and professionally navigating the digital world. The project includes creating a digital awareness infographic, building a student portfolio, exploring coding and collaboration platforms, drafting professional emails, and understanding cybercrime awareness. All tasks are documented with screenshots, reflections, and a comprehensive project report.
 
@@ -16,9 +18,9 @@ This repository contains all deliverables organized by task, along with my refle
 
 ---
 
-## Module Summaries
+## 🧠Module Summaries
 
-### **Task 1 – Digital Literacy Awareness Infographic**
+### **🔹Task 1 – Digital Literacy Awareness Infographic**
 - **Tool Used:** Prezi  
 - **Description:** Created a one-page visual presentation explaining key aspects of digital literacy for peers. The infographic covers:  
   1. What digital literacy is
@@ -31,7 +33,7 @@ This repository contains all deliverables organized by task, along with my refle
 
 ---
 
-### **Task 2 – Student Digital Portfolio**
+### **🔹Task 2 – Student Digital Portfolio**
 - **Platforms Used:** GitHub, Kaggle, ResearchGate  
 - **Purpose:** Established a professional online presence to showcase projects, coding skills, and academic contributions.  
 - **Future Plans:**  
@@ -41,7 +43,7 @@ This repository contains all deliverables organized by task, along with my refle
 
 ---
 
-### **Task 3 – Coding & Collaboration Platforms**
+### **🔹Task 3 – Coding & Collaboration Platforms**
 - **Coding Practice Platform:** HackerRank  
   - Completed a beginner-level challenge: "Solve Me First"  
 - **Collaboration Platform:** Google Forms & Google Sheets  
@@ -52,7 +54,7 @@ This repository contains all deliverables organized by task, along with my refle
 
 ---
 
-### **Task 4 – Professional Email & Social Media Etiquette**
+### **🔹Task 4 – Professional Email & Social Media Etiquette**
 - **Tools Used:** MS Word  
 - **Emails Drafted:**  
   1. Assignment extension request to professor  
@@ -62,7 +64,7 @@ This repository contains all deliverables organized by task, along with my refle
 
 ---
 
-### **Task 5 – Cybercrime Awareness**
+### **🔹Task 5 – Cybercrime Awareness**
 - **Tools Used:** Google, National Cyber Crime Portal  
 - **Case Study Topic:** Phishing  
   - Researched steps, targets, consequences, and prevention tips  
@@ -71,7 +73,7 @@ This repository contains all deliverables organized by task, along with my refle
 
 ---
 
-# Tools & Platforms Used in Digital Literacy Project
+# 🔗Tools & Platforms Used in Digital Literacy Project
 
 This section lists all the tools and platforms used for completing the Digital Literacy Project at VIT Bhopal University.
 
@@ -90,7 +92,7 @@ This section lists all the tools and platforms used for completing the Digital L
 
 ---
 
-## References
+## 📎References
 
 Below are the tools, platforms, and resources referenced during the completion of the Digital Literacy Project:
 
@@ -124,7 +126,15 @@ Below are the tools, platforms, and resources referenced during the completion o
 10. **National Cyber Crime Portal (India)** – Reporting channel and reference for cybercrime  
     [https://cybercrime.gov.in](https://cybercrime.gov.in)
 
-**Notes:**  
+---
+
+# 📌 Conclusion
+
+This project helped me understand the importance of digital literacy in academic and professional life. It enhanced my ability to use digital tools effectively, communicate professionally, and stay safe online.
+
+---
+
+**💡Notes:**  
 - All screenshots included in the repository are original and created by me.  
 - References are included to acknowledge the platforms and resources used for learning and completing each task.
 ---
